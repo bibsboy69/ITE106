@@ -1,4 +1,3 @@
-
 import myPackage.myClass;
 
 public class PrintName
